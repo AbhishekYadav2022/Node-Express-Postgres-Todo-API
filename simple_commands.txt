@@ -1,0 +1,8 @@
+See all databases
+\l
+
+Connect a database
+\c d_name
+
+See all tables
+\dt 
